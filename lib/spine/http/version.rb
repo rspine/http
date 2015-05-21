@@ -1,5 +1,5 @@
 module Spine
   module Http
-    VERSION = '0.1.1'
+    VERSION = '0.3.0'
   end
 end
