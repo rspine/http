@@ -3,6 +3,8 @@
 [![Gem Version](https://badge.fury.io/rb/spine-http.svg)](http://badge.fury.io/rb/spine-http)
 [![Dependency Status](https://gemnasium.com/rspine/http.svg)](https://gemnasium.com/rspine/http)
 [![Code Climate](https://codeclimate.com/github/rspine/http/badges/gpa.svg)](https://codeclimate.com/github/rspine/http)
+[![security](https://hakiri.io/github/rspine/http/master.svg)](https://hakiri.io/github/rspine/http/master)
+[![Inline docs](http://inch-ci.org/github/rspine/http.svg?branch=master)](http://inch-ci.org/github/rspine/http)
 
 Wrapper for `Net::Http` to make requests easier.
 
