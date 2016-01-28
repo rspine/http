@@ -7,8 +7,8 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    multi_json (1.11.1)
-    rake (10.4.2)
+    multi_json (1.11.2)
+    rake (10.5.0)
     spine-content_types (0.1.2)
       multi_json (~> 1.0)
 
@@ -21,4 +21,4 @@ DEPENDENCIES
   spine-http!
 
 BUNDLED WITH
-   1.10.2
+   1.11.2
